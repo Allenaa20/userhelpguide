@@ -10,7 +10,7 @@ Introduction
 
 PC Matic is a trusted cybersecurity solution designed to protect computers against malware, ransomware, viruses, and other online threats. Whether you are a new user looking to sign up or an existing customer wanting to manage login access, understanding the correct process for sign in, installation, and download is essential.
 
-.. image:: login-now.png
+.. image:: get-started.png
    :alt: My Project Logo
    :width: 400px
    :align: center
