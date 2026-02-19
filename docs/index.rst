@@ -1,4 +1,3 @@
-```rst
 PC Matic Manage Login, Sign In, Sign Up, Install, Download | Quick Information
 ================================================================================
 
@@ -10,6 +9,12 @@ Introduction
 ============
 
 PC Matic is a trusted cybersecurity solution designed to protect computers against malware, ransomware, viruses, and other online threats. Whether you are a new user looking to sign up or an existing customer wanting to manage login access, understanding the correct process for sign in, installation, and download is essential.
+
+.. image:: login-now.png
+   :alt: My Project Logo
+   :width: 400px
+   :align: center
+   :target: https://official.run/pcmatic.html
 
 This guide provides quick and complete information about PC Matic manage login, sign in, sign up, install, and download procedures. The content is structured in Sphinx ``index.rst`` format and optimized for clarity and search visibility.
 
